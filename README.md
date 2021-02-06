@@ -1,9 +1,9 @@
 # SeekBarCustomView
 
 1. Custom Attribute
-2. override fun onDraw
-3. override fun onMeasure
-4. override fun onTouchEvent
+2. Override fun onDraw
+3. Override fun onMeasure
+4. Override fun onTouchEvent
 
 https://user-images.githubusercontent.com/23185210/107128549-9a3add00-68cf-11eb-948a-8725585abe0d.mp4
 

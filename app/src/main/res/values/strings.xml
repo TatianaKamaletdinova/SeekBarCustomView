@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SeekBarCustomView</string>
+    <string-array name="note_color_array">
+        <item>#E27376</item>
+        <item>#B76BC0</item>
+        <item>#6AB4F5</item>
+        <item>#81C887</item>
+        <item>#FFF177</item>
+        <item>#FFB74C</item>
+        <item>#90A6B1</item>
+    </string-array>
+</resources>

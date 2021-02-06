@@ -1,6 +1,6 @@
 # SeekBarCustomView
 
-1. Custom Attribute
+1. Customs Attributes
 2. Override fun onDraw
 3. Override fun onMeasure
 4. Override fun onTouchEvent
